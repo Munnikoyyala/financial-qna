@@ -13,4 +13,15 @@ This is a Streamlit web application that allows users to upload **financial docu
    ```bash
    git clone <your-repo-link>
    cd financial-qna
+##  Setup & Run
+
+1. Install dependencies
+bash pip install -r requirements.txt 2. Run the Streamlit app
+bash
+   streamlit run app.py
+
+Screenshot
+
+![App Screenshot](screenshot.png)
+
 
